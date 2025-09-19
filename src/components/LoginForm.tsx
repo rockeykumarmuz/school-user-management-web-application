@@ -82,8 +82,8 @@ export default function LoginForm({ onLogin }: Props) {
 			</div>
 
 			<div className='text-xs text-slate-500 mt-3'>
-				Note: Try the sample accounts from the dataset(users.json) (e.g. <b>aman.kumar@example.com</b> /{' '}
-				<i>student123</i>).
+				Note: Try the sample accounts from the dataset(users.json) (e.g. <b>rockey.kumar@test.com</b> /{' '}
+				<i>Rockey@123</i>).
 			</div>
 		</form>
 	)
