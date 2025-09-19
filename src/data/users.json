@@ -1,0 +1,62 @@
+[
+	{
+		"userName": "Rockey Kumar",
+		"userType": "admin",
+		"password": "04efa52a561ce15b73cd9e5a410f963904ec082748d604f69e1e36917f32423a",
+		"email": "rockey.kumar@test.com",
+		"language": "English",
+		"address": "Mumbai, India",
+		"standard": "N/A",
+		"subjects": []
+	},
+	{
+		"userName": "Priya Mehra",
+		"userType": "admin",
+		"password": "17e762f84524275c59ecd28a56b7d339d30b0bda2e2d39ece07861252ada64e6",
+		"email": "priya.mehra@test.com",
+		"language": "English",
+		"address": "New Delhi, India",
+		"standard": "N/A",
+		"subjects": []
+	},
+	{
+		"userName": "Aman Patil",
+		"userType": "student",
+		"password": "bf0f6422f9d7b04850f0fbe9e211d73f0c73a2322f0a35b3b8b8b12e372ad153",
+		"email": "aman.patil@test.com",
+		"language": "Marathi",
+		"address": "Pune, India",
+		"standard": "10th",
+		"subjects": ["Coding", "Maths", "Science", "History"]
+	},
+	{
+		"userName": "Sneha Patel",
+		"userType": "student",
+		"password": "358b2a2061040851aa74cc9ac0b1fe5639c1d82341e924ce6e1857108010ede7",
+		"email": "sneha.patel@test.com",
+		"language": "Gujarati",
+		"address": "Surat, India",
+		"standard": "9th",
+		"subjects": ["Python", "Maths", "Geography"]
+	},
+	{
+		"userName": "Pratik Patil",
+		"userType": "student",
+		"password": "7f45f5709f79d295293aff022752d889a12340bc915089a8bba98f0d2058d8da",
+		"email": "pratik.patil@test.com",
+		"language": "Marathi",
+		"address": "Andheri Mumbai, India",
+		"standard": "7th",
+		"subjects": ["English", "Mathematics", "Physics"]
+	},
+	{
+		"userName": "Dilip Singhania",
+		"userType": "student",
+		"password": "fbd2e0ad38d3b5be422ab25fc2503c9531965fd571ef2d34e8cfafd0d50aebf4",
+		"email": "dilip.singhania@test.com",
+		"language": "Hindi",
+		"address": "Thane, India",
+		"standard": "8th",
+		"subjects": ["Chemistry", "Mathematics", "Physics"]
+	}
+]

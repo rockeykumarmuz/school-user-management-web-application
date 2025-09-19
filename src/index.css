@@ -1,0 +1,17 @@
+@import 'tailwindcss';
+
+/* small modal backdrop + center */
+.modal-backdrop {
+	background: rgba(0, 0, 0, 0.4);
+}
+
+/* scrollable student list */
+.student-list-scroll {
+	max-height: 58vh;
+	overflow: auto;
+}
+
+/* small utility */
+.field-label {
+	@apply text-sm font-medium text-gray-700;
+}
